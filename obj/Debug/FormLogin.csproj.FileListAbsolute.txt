@@ -1,0 +1,11 @@
+c:\users\castro\documents\visual studio 2015\Projects\FormLogin\FormLogin\bin\Debug\FormLogin.exe.config
+c:\users\castro\documents\visual studio 2015\Projects\FormLogin\FormLogin\bin\Debug\FormLogin.exe
+c:\users\castro\documents\visual studio 2015\Projects\FormLogin\FormLogin\bin\Debug\FormLogin.pdb
+c:\users\castro\documents\visual studio 2015\Projects\FormLogin\FormLogin\obj\Debug\FormLogin.csprojResolveAssemblyReference.cache
+c:\users\castro\documents\visual studio 2015\Projects\FormLogin\FormLogin\obj\Debug\FormLogin.Form1.resources
+c:\users\castro\documents\visual studio 2015\Projects\FormLogin\FormLogin\obj\Debug\FormLogin.Properties.Resources.resources
+c:\users\castro\documents\visual studio 2015\Projects\FormLogin\FormLogin\obj\Debug\FormLogin.csproj.GenerateResource.Cache
+c:\users\castro\documents\visual studio 2015\Projects\FormLogin\FormLogin\obj\Debug\FormLogin.exe
+c:\users\castro\documents\visual studio 2015\Projects\FormLogin\FormLogin\obj\Debug\FormLogin.pdb
+c:\users\castro\documents\visual studio 2015\Projects\FormLogin\FormLogin\bin\Debug\UsersDatabase.mdf
+c:\users\castro\documents\visual studio 2015\Projects\FormLogin\FormLogin\bin\Debug\UsersDatabase_log.ldf
